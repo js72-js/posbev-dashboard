@@ -1,0 +1,9 @@
+# Dans le dossier de ton projet React
+git init
+git add .
+git commit -m "Initial commit POSBevMerici web"
+
+# Créer un repo sur github.com puis :
+git remote add origin https://github.com/js72-js/posbev-dashboard.git
+git branch -M main
+git push -u origin main
